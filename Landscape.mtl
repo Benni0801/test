@@ -1,0 +1,13 @@
+# Blender 4.2.2 LTS MTL File: 'Landscape.blend'
+# www.blender.org
+
+newmtl ALPHS_Noise_Mountains
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd BaseColor_Map.jpg
+map_Ns Roughness Map_0.jpg
+map_Bump -bm 1.000000 Normal Map_0.jpg
